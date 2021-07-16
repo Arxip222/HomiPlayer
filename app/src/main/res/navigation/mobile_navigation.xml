@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_folders">
+
+    <fragment
+        android:id="@+id/nav_folders"
+        android:name="homi.play.player.ui.home.HomeFragment"
+        android:label="@string/menu_folders"
+        tools:layout="@layout/fragment_home"/>
+
+    <fragment
+        android:id="@+id/nav_video"
+        android:name="homi.play.player.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_video"
+        tools:layout="@layout/fragment_slideshow"/>
+
+    <fragment
+        android:id="@+id/nav_info"
+        android:name="homi.play.player.ui.info.InfoFragment"
+        android:label="О приложении"
+        tools:layout="@layout/fragment_info"/>
+
+</navigation>

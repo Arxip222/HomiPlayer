@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Homi Player</string>
+    <string name="title_activity_main">Homi Player</string>
+    <string name="nav_header_title">Homi Player</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_folders">Folders</string>
+    <string name="menu_video">Streaming video</string>
+    <string name="menu_info">About the application</string>
+    <string name="Com">Play</string>
+    <string name="URL">The link to the video</string>
+    <string name="file">File</string>
+    <string name="foldName">Folder Name</string>
+    <string name="video">videos</string>
+    <string name="lang">Choose language...</string>
+    <string name="hm_video_player_android">HM Video Player is a new Android-based video player for playing local video files.</string>
+    <string name="mp4_avi">Supports major video formats, including: Mp4, AVI, etc. Simple and user-friendly interface. Nothing extra.</string>
+    <string name="search">Search...</string>
+    <string name="war">Enter the correct link!</string>
+    <string name="permiss">Please Allow the Permission</string>
+    <string name="type">File type not supported</string>
+    <string name="load">Loading...</string>
+    <string name="searc">Search</string>
+    <string name="f">To search, enter more than two characters.</string>
+    <string name="ff">Nothing found</string>
+    <string name="rus">Russian</string>
+    <string name="angl">English</string>
+</resources>

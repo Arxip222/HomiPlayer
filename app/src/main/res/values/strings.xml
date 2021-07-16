@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Homi Player</string>
+    <string name="title_activity_main" translatable="false">Homi Player</string>
+    <string name="nav_header_title" translatable="false">Homi Player</string>
+    <string name="nav_header_desc" translatable="false">Навигационный заголовок</string>
+
+    <string name="menu_folders" translatable="false">Папки</string>
+    <string name="menu_video" translatable="false">Потоковое видео</string>
+    <string name="menu_info" translatable="false">О приложении</string>
+    <string name="Com" translatable="false">Play</string>
+    <string name="URL" translatable="false">Ссылка на видео</string>
+    <string name="file" translatable="false">Файл</string>
+    <string name="foldName" translatable="false">Имя Папки</string>
+    <string name="video" translatable="false">видео</string>
+    <string name="lang" translatable="false">Выбирите язык...</string>
+    <string name="hm_video_player_android" translatable="false">HM Video Player - новый видео плеер на базе Android для воспроизведения локальных видео файлов.</string>
+    <string name="mp4_avi" translatable="false">Поддерживает основные форматы видео, в том числе: Mp4, AVI и др. Простой и удобный интерфейс. Ничего лишнего.</string>
+    <string name="search" translatable="false">Искать...</string>
+    <string name="war" translatable="false">Введите правильную ссылку!</string>
+    <string name="permiss" translatable="false">Пожалуйста, разрешите доступ</string>
+    <string name="type" translatable="false">Не поддерживаемый тип файла</string>
+    <string name="load" translatable="false">Загрузка...</string>
+    <string name="searc" translatable="false">Поиск</string>
+    <string name="f" translatable="false">Для поиска введите более двух символов.</string>
+    <string name="ff" translatable="false">Ничего не найдено</string>
+    <string name="rus" translatable="false">Русский</string>
+    <string name="angl" translatable="false">Английский</string>
+
+
+</resources>
